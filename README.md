@@ -6,6 +6,10 @@ A Decentralized Social Network: From DAOs to Network State
 ## Link
 Vercel Link:https://greenbook-v2-sjt9xet8h-ashley0324s-projects.vercel.app
 
+Test Account:
+username： admin
+password: jinxijinxi
+
 ## 👋 Brief
 The concept of a network state has been proposed for two years. In exploring DAOs, we have found high-frequency mobility among members of DAOs and cooperation and rivalry between different DAOs. Many interconnected DAOs will constitute these network states, bringing more people into a fairer world on the blockchain. Now we have built more than 70,000 members community, and the next step is to build a network state to make them enjoy the online life.
 
