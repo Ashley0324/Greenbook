@@ -3,7 +3,7 @@ A Decentralized Social Network: From DAOs to Network State
 A Decentralized Social Network: From DAOs to Network State
 <img width="1920" alt="Thumbnail (1)" src="https://github.com/user-attachments/assets/f9430ab6-7163-4219-bf6d-b5cef78c7e57">
 
-## Link
+## 🔗 Link
 Vercel Link:https://greenbook-v2-sjt9xet8h-ashley0324s-projects.vercel.app
 
 Test Account:
