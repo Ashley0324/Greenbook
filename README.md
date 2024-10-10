@@ -60,6 +60,7 @@ The concept of a network state has been proposed for two years. In exploring DAO
 - IPFS
 - Anchor
 - web3.js
+- Actions and Blinks
 
 ## 🪡 Marketing
 - DAO
